@@ -16,8 +16,8 @@ body{
     margin-top: 20px;
 }
 .card:hover{
-    transform: scale(1.05);
-    background-color: azure;
+    transform: scale(1.5);
+    background-color: darkslategray;
 }
 
 .imgCarros{
