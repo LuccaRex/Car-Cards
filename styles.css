@@ -1,10 +1,26 @@
-body{
+.cards{
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
     margin: 0;
     background-color: black;
+}
+header {
+    background-image: url('img/logo.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    text-align: center;
+    padding: 100px 0;
+}
+.nome {
+    font-size: 60px;
+    margin-bottom: 20px;
+    color: darkred;
+}
+.slogan {
+    font-size: 30px;
 }
 .card{
     background-color: #fff;
