@@ -1,6 +1,6 @@
 # TOP SECRET CARS
 
-Bem-vindo ao Site de Carros Incríveis! Nossa plataforma é dedicada a celebrar a beleza e a potência dos carros. Aqui você encontrará uma coleção de imagens impressionantes e informações sobre os veículos mais incríveis do mundo.
+Bem-vindo ao TOP SECRET! Nossa plataforma é dedicada a celebrar a beleza e a potência dos carros. Aqui você encontrará uma coleção de imagens impressionantes e informações sobre os veículos mais incríveis do mundo.
 
 ## Cabeçalho
 ![Imagem do Carro](img/logo.jpg)
@@ -14,7 +14,7 @@ TOP SECRET
 ## Conteúdo
 
 ### Galeria de Imagens
-Nossa galeria de imagens apresenta fotos de carros esportivos, superesportivo e hyperesportivos.
+Nossa galeria de imagens apresenta fotos de carros esportivos, superesportivo, hyperesportivos, JDM e clássicos 
 
 ### Informações sobre Carros
 Saiba mais sobre os carros que fazem história.
