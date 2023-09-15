@@ -3,7 +3,7 @@
 Bem-vindo ao Site de Carros Incríveis! Nossa plataforma é dedicada a celebrar a beleza e a potência dos carros. Aqui você encontrará uma coleção de imagens impressionantes e informações sobre os veículos mais incríveis do mundo.
 
 ## Cabeçalho
-![Imagem do Carro](logo.jpg)
+![Imagem do Carro](img/logo.jpg)
 
 ### Nome do Site
 TOP SECRET
